@@ -1,2 +1,2 @@
 # VeA_KiCAD_prj
-repozitorijs iespiedplašu izveidei
+repozitorijs paredzēts iespiedplašu versiju kontrolei
